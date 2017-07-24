@@ -1,0 +1,27 @@
+{
+  "name": "started",
+  "version": "1.0.0",
+  "description": "source started nodejs example",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhsieunhan/node-started.git"
+  },
+  "keywords": [
+    "khanhpoly"
+  ],
+  "author": "khanhpoly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhsieunhan/node-started/issues"
+  },
+  "homepage": "https://github.com/khanhsieunhan/node-started#readme",
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
