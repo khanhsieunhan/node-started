@@ -26,6 +26,6 @@
     "webpack": "^3.3.0"
   },
   "dependencies": {
-    "mongoose": "^4.11.4"
+    "mongoose": "^5.7.5"
   }
 }
